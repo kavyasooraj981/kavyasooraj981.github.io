@@ -4,5 +4,6 @@ Indian cities are growing fast and creating a stress on urban infrastructure and
 
 This was a project done as part of CDAC PGDGi programme. See **[this page](https://kavyasooraj981.github.io/dashboardfinal.html)** for the web dashboard produced as the output of this work. 
 
-**Team members**: Shreya Paturi, Babitha Yadav, and Kavya Varma. 
+**Team members**: Shreya Paturi, Babitha Yadav, and Kavya Varma.  
+
 **Tools used**: ArcGIS, QGIS, ERDAS Imagine, Google Earth Engine, RStudio and R Markdown with leaflet and flexdashboard
