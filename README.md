@@ -1,7 +1,3 @@
-# Welcome!
-
-This repository contains some of my work related to GIS and remote sensing.
-
 ## An analysis of surface water and ground water situation in Bengaluru 
 
 Indian cities are growing fast and creating a stress on urban infrastructure and most importantly on natural resources. This project focuses on the changes in the surface and ground water in Bengaluru, the world's fastest growing city in GDP (Bengaluru Innovation Report,2019), and the third most populous city in India.
